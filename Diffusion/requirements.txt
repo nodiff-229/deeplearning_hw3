@@ -1,0 +1,7 @@
+tensorflow
+scipy
+requests
+tqdm
+blobfile
+torch
+numpy
